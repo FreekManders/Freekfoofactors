@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 ```
 
 **NOTE: This is just a toy package. Made by following the book: `R Packages` from Hadley Wickham.
+
 # Freekfoofactors
 
 Contains two functions for working with factors.

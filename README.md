@@ -1,7 +1,9 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 \*\*NOTE: This is just a toy package. Made by following the book: `R
-Packages` from Hadley Wickham. \# Freekfoofactors
+Packages` from Hadley Wickham.
+
+# Freekfoofactors
 
 Contains two functions for working with factors.
 
