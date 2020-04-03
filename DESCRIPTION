@@ -1,5 +1,5 @@
 Package: Freekfoofactors
-Title: Toypackage with factor functions.
+Title: Toypackage with factor functions
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Freek",
