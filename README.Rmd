@@ -25,7 +25,7 @@ Contains two functions for working with factors.
 
 
 ``` {r installation, eval = F}
-devtools::install_github("FreekManders/foofactors")
+devtools::install_github("FreekManders/foofactors", build_vignettes = TRUE)
 ```
 
 ## Demo

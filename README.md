@@ -5,12 +5,13 @@ Packages` from Hadley Wickham.
 
 # Freekfoofactors
 
-Contains two functions for working with factors.
+Contains two functions for working with
+factors.
 
 ## Installation
 
 ``` r
-devtools::install_github("FreekManders/foofactors")
+devtools::install_github("FreekManders/foofactors", build_vignettes = TRUE)
 ```
 
 ## Demo

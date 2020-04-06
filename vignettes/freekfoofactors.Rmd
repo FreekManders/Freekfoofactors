@@ -1,0 +1,39 @@
+---
+title: "Freekfoofactors"
+author: "Freek Manders"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Freekfoofactors}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+This is a vignette for the Freekfoofactors package. It shows you how to use the package. Here is another sentence.
+
+Load the package.
+```{r}
+library(Freekfoofactors)
+```
+
+
+This doesn't work well
+```{r}
+x <- c("a", "b")
+x_fact <- factor(x)
+y <- c("c", "d")
+```
+
+This does.
+```{r}
+fbind(x_fact, y)
+```
+
+Thank you for your attention.
